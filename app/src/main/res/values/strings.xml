@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">instagram</string>
+
+    <string name="applicationId">fpR3iAqaCrvj5JiYp83Le9ufpBIHdh5NSYZc3VHn</string>
+    <string name="clientKey">fSc05jsoNAnVG3UUJWsN8aoZhUeAeAZRnJIjcCGa</string>
+    <string name="serverUrl">https://parseapi.back4app.com/</string>
+
+</resources>
